@@ -18,7 +18,7 @@ size_t cprops_file_parse(FILE *fp, cprops_data_t *data, int *err,
 ```
 
 # Usage
-View (example.c)[https://github.com/blazewashere/libcprops/blob/main/src/example.c].
+View [example.c](https://github.com/blazewashere/libcprops/blob/main/src/example.c).
 
 # Example
 ```sh
